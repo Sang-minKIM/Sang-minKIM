@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello world, I'm Sangmin! 👋🏻
+<em>🎓 Soongsil Univ</em><br>
+<em>🦁 Like Lion SSU 10th Front-end Team Member</em><br>
+<em>🦁 Like Lion SSU 11th Operation Director</em><br>
+<em>🖌 Studying WEB Front-end Development</em>
 
-<!--
-**Sang-minKIM/Sang-minKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 A little more about me...
+```js
+const Sangmin = {
+  contact : "kimpran@naver.com" | "https://github.com/Sang-minKIM",
+  code : [Javascript, Typescript, HTML, CSS],
+  tools : [React, React-Query, Recoil, Styled-Components, Emotion],
+  extra : [Git, Notion, Slack]
+}
+```
