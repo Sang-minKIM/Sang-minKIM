@@ -13,3 +13,5 @@ const Sangmin = {
   extra : [Git, Notion, Slack, Figma]
 }
 ```
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimpran)](https://solved.ac/kimpran/)
