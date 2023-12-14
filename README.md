@@ -2,6 +2,7 @@
 <em>🎓 Soongsil Univ</em><br>
 <em>🦁 Like Lion SSU 10th Front-end Team Member</em><br>
 <em>🦁 Like Lion SSU 11th Operation Director</em><br>
+<em>🦁 Au-hueng Hackerthon Management Team</em><br>
 <em>🖌 Studying WEB Front-end Development</em>
 
 ### 📌 A little more about me...
