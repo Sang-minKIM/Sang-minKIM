@@ -3,6 +3,7 @@
 <em>🦁 Like Lion SSU 10th Front-end Team Member</em><br>
 <em>🦁 Like Lion SSU 11th Operation Director</em><br>
 <em>🦁 2023-AHEUNGTHON Management Team</em><br>
+<em>🚗 Softeer Bootcamp 3nd Front-end Member</em>
 <em>🖌 Studying WEB Front-end Development</em>
 
 ### 📌 A little more about me...
