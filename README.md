@@ -17,5 +17,5 @@ const Sangmin = {
 }
 ```
 
-
+[![Sangmin's github stats](https://github-readme-stats-chi-bay.vercel.app/api?username=Sang-minKIM&show_icons=true&count_private=true)](https://github.com/Sang-minKIM)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimpran)](https://solved.ac/kimpran/)
