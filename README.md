@@ -5,7 +5,7 @@
 <em>🦁 2023-AHEUNGTHON Management Team</em><br>
 <em>🚗 Softeer Bootcamp 3nd Front-end Member</em>  
 <em>🖌 Studying WEB Front-end Development</em>  
-<em>📄 <a href="https://drive.google.com/file/d/1SkRCVatwuFdTPeSe0iFapKOuLmd00gzq/view?usp=drive_link">Resume</a></em>
+<em>📄 <a href="">Resume</a></em>
 
 ### 📌 A little more about me...
 ```js
