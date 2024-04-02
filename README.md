@@ -1,11 +1,11 @@
 ## Hello world, I'm Sangmin! 👋🏻
-<em>🎓 Soongsil Univ</em><br>
-<em>🦁 Like Lion SSU 10th Front-end Team Member</em><br>
-<em>🦁 Like Lion SSU 11th Operation Director</em><br>
-<em>🦁 2023-AHEUNGTHON Management Team</em><br>
-<em>🚗 Softeer Bootcamp 3nd Front-end Member</em>  
-<em>🖌 Studying WEB Front-end Development</em>  
-<em>📄 <a href="">Resume</a></em>
+🎓 Soongsil Univ<br>
+🦁 Like Lion SSU 10th Front-end Team Member<br>
+🦁 Like Lion SSU 11th Operation Director<br>
+🦁 2023-AHEUNGTHON Management Team<br>
+🚗 Softeer Bootcamp 3nd Front-end Member  
+🖌 Studying WEB Front-end Development  
+
 
 ### 📌 A little more about me...
 ```js
