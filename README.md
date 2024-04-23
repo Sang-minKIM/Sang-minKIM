@@ -12,7 +12,7 @@
 const Sangmin = {
   contact : "kimpran@naver.com" | "https://github.com/Sang-minKIM",
   code : [Javascript, Typescript, HTML, CSS, C++],
-  tools : [React, NextJS, React-Query, GraphQL, Recoil, SCSS, Styled-Components, Emotion],
+  tools : [React, NextJS, React-Query, GraphQL, Recoil, SCSS, Styled-Components, Emotion, Supabase],
   extra : [Git, Notion, Slack, Figma],
 }
 ```
