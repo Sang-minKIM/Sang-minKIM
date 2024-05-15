@@ -5,15 +5,16 @@
 🦁 2023-AHEUNGTHON Management Team<br>
 🚗 Softeer Bootcamp 3nd Front-end Member  
 🖌 Studying WEB Front-end Development  
+📗 [Project Notes](https://sangmini.notion.site/34c4223086014cd6a449409ab94d7b3d)
 
 
 ### 📌 A little more about me...
 ```js
 const Sangmin = {
   contact : "kimpran@naver.com" | "https://github.com/Sang-minKIM",
-  code : [JavaScript, TypeScript, HTML, CSS, C++],
-  tools : [React, NextJS, Tanstack-Query, GraphQL, Recoil, SCSS, Styled-Components, Emotion, Supabase],
-  extra : [Git, Notion, Slack, Figma],
+  code : ["JavaScript", "TypeScript", "HTML", "CSS", "C++"],
+  tools : ["React", "NextJS", "Tanstack-Query", "GraphQL", "Recoil", "SCSS", "Styled-Components", "Emotion", "Supabase"],
+  extra : ["Git", "Notion", "Slack", "Figma"],
 }
 ```
 
