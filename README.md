@@ -4,6 +4,7 @@
 🦁 Like Lion SSU 11th Operation Director<br>
 🦁 2023-AHEUNGTHON Management Team<br>
 🚗 Softeer Bootcamp 3nd Front-end Member  
+☁️ 2024 Open Source Contribution Academy Member  
 🖌 Studying WEB Front-end Development  
 📗 [Project Notes](https://sangmini.notion.site/34c4223086014cd6a449409ab94d7b3d)
 
