@@ -5,6 +5,7 @@
 🦁 2023-AHEUNGTHON Management Team<br>
 🚗 HMG Softeer Bootcamp 3nd Front-end Member  
 ☁️ 2024 Open Source Contribution Academy Member(Beginner Cource)  
+☁️ 2024 Open Source Contribution Academy Member(Contributor Cource)  
 🖌 Studying WEB Front-end Development  
 📗 [Project Notes](https://sangmini.notion.site/34c4223086014cd6a449409ab94d7b3d)
 
