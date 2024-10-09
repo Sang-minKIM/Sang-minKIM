@@ -15,8 +15,8 @@
 const Sangmin = {
   contact : "kimpran@naver.com" | "https://github.com/Sang-minKIM",
   code : ["JavaScript", "TypeScript", "HTML", "CSS", "C++"],
-  tools : ["React", "NextJS", "Tanstack-Query", "GraphQL", "Recoil", "SCSS", "Styled-Components", "Emotion", "Supabase"],
-  extra : ["Git", "Notion", "Slack", "Figma"],
+  tools : ["React", "Vue.js", "Node.js", "NextJS"],
+  extra : ["Git", "Tanstack-Query", "GraphQL", "Zustand", "Recoil", "Supabase", "Sequelize"]
 }
 ```
 
